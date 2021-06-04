@@ -29,3 +29,4 @@ Github:
 https://github.com/tiimgreen/github-cheat-sheet/  //github使用技巧
 
 -----------------------------------------------------------------
+https://www.runoob.com/w3cnote/android-tutorial-sign-package.html
